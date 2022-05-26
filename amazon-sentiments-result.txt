@@ -1,0 +1,22 @@
+Calling DetectSentiment
+{
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "content-length": "165",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 26 May 2022 11:11:47 GMT",
+            "x-amzn-requestid": "fc7faba7-727b-4571-8e41-61b6c9a2502b"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "fc7faba7-727b-4571-8e41-61b6c9a2502b",
+        "RetryAttempts": 0
+    },
+    "Sentiment": "NEGATIVE",
+    "SentimentScore": {
+        "Mixed": 3.274471600889228e-05,
+        "Negative": 0.9832625389099121,
+        "Neutral": 0.007271162234246731,
+        "Positive": 0.009433520026504993
+    }
+}
+End of DetectSentiment

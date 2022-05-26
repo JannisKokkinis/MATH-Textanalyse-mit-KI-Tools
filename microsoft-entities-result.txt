@@ -1,0 +1,34 @@
+Named Entities:
+
+        Text:    SBB    Category:        Organization   SubCategory:     None 
+        Confidence Score:        0.97   Length:          3      Offset:          55 
+
+        Text:    Basel  Category:        Location       SubCategory:     GPE
+        Confidence Score:        1.0    Length:          5      Offset:          150
+
+        Text:    17:36  Category:        DateTime       SubCategory:     Time
+        Confidence Score:        0.8    Length:          5      Offset:          180
+
+        Text:    :36    Category:        Skill  SubCategory:     None
+        Confidence Score:        0.38   Length:          3      Offset:          182
+
+        Text:    18:04  Category:        DateTime       SubCategory:     Time
+        Confidence Score:        0.8    Length:          5      Offset:          190
+
+        Text:    :04    Category:        Skill  SubCategory:     None
+        Confidence Score:        0.4    Length:          3      Offset:          192
+
+        Text:    2      Category:        Quantity       SubCategory:     Number
+        Confidence Score:        0.8    Length:          1      Offset:          288
+
+        Text:    Aesch  Category:        Location       SubCategory:     GPE
+        Confidence Score:        0.97   Length:          5      Offset:          334
+
+        Text:    Zugspersonals  Category:        PersonType     SubCategory:     None
+        Confidence Score:        0.87   Length:          13     Offset:          375
+
+        Text:    SBB    Category:        Organization   SubCategory:     None
+        Confidence Score:        0.97   Length:          3      Offset:          535
+
+        Text:    Heinz Müller   Category:        Person         SubCategory:     None
+        Confidence Score:        1.0    Length:          12     Offset:          697

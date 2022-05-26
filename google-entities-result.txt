@@ -1,0 +1,228 @@
+================================================================================
+name           : Damen
+type           : PERSON
+salience       : 11.8%
+wikipedia_url  : -
+mid            : -
+================================================================================
+name           : Herren
+type           : ORGANIZATION
+salience       : 11.8%
+wikipedia_url  : -
+mid            : -
+================================================================================
+name           : Geschäftsleitung
+type           : ORGANIZATION
+salience       : 11.8%
+wikipedia_url  : -
+mid            : -
+================================================================================
+name           : Hiermit
+type           : OTHER
+salience       : 11.8%
+wikipedia_url  : -
+mid            : -
+================================================================================
+name           : Züge
+type           : OTHER
+salience       : 7.6%
+wikipedia_url  : -
+mid            : -
+================================================================================
+name           : Zugverbindungen
+type           : OTHER
+salience       : 7.6%
+wikipedia_url  : -
+mid            : -
+================================================================================
+name           : SBB
+type           : ORGANIZATION
+salience       : 4.9%
+wikipedia_url  : https://de.wikipedia.org/wiki/Schweizerische_Bundesbahnen
+mid            : /m/01gp2q
+================================================================================
+name           : Verspätungen
+type           : OTHER
+salience       : 3.8%
+wikipedia_url  : -
+mid            : -
+================================================================================
+name           : Male
+type           : OTHER
+salience       : 3.3%
+wikipedia_url  : -
+mid            : -
+================================================================================
+name           : Bern
+type           : LOCATION
+salience       : 2.4%
+wikipedia_url  : https://de.wikipedia.org/wiki/Bern
+mid            : /m/0d6nx
+================================================================================
+name           : Basel
+type           : LOCATION
+salience       : 2.4%
+wikipedia_url  : https://de.wikipedia.org/wiki/Basel
+mid            : /m/01k4f
+================================================================================
+name           : Verspätung
+type           : EVENT
+salience       : 2.0%
+wikipedia_url  : -
+mid            : -
+================================================================================
+name           : Male
+type           : OTHER
+salience       : 2.0%
+wikipedia_url  : -
+mid            : -
+================================================================================
+name           : Verspätungen
+type           : OTHER
+salience       : 1.5%
+wikipedia_url  : -
+mid            : -
+================================================================================
+name           : Verspätungen
+type           : OTHER
+salience       : 1.5%
+wikipedia_url  : -
+mid            : -
+================================================================================
+name           : Zugspersonals
+type           : PERSON
+salience       : 1.3%
+wikipedia_url  : -
+mid            : -
+================================================================================
+name           : niemand
+type           : PERSON
+salience       : 1.3%
+wikipedia_url  : -
+mid            : -
+================================================================================
+name           : Grund
+type           : OTHER
+salience       : 1.3%
+wikipedia_url  : -
+mid            : -
+================================================================================
+name           : Nachfragen
+type           : OTHER
+salience       : 1.3%
+wikipedia_url  : -
+mid            : -
+================================================================================
+name           : Anschlusszug
+type           : OTHER
+salience       : 1.3%
+wikipedia_url  : -
+mid            : -
+================================================================================
+name           : Reaktion
+type           : OTHER
+salience       : 1.2%
+wikipedia_url  : -
+mid            : -
+================================================================================
+name           : Stande
+type           : OTHER
+salience       : 1.2%
+wikipedia_url  : -
+mid            : -
+================================================================================
+name           : Beschwerdemanagement
+type           : OTHER
+salience       : 0.9%
+wikipedia_url  : -
+mid            : -
+================================================================================
+name           : Begründung
+type           : OTHER
+salience       : 0.9%
+wikipedia_url  : -
+mid            : -
+================================================================================
+name           : Massnahmen
+type           : OTHER
+salience       : 0.9%
+wikipedia_url  : -
+mid            : -
+================================================================================
+name           : Grüsse
+type           : OTHER
+salience       : 0.7%
+wikipedia_url  : -
+mid            : -
+================================================================================
+name           : Aesch
+type           : LOCATION
+salience       : 0.4%
+wikipedia_url  : -
+mid            : -
+================================================================================
+name           : Heinz Müller
+type           : PERSON
+salience       : 0.2%
+wikipedia_url  : -
+mid            : -
+================================================================================
+name           : 5
+type           : NUMBER
+salience       : 0.0%
+wikipedia_url  : -
+mid            : -
+================================================================================
+name           : 17
+type           : NUMBER
+salience       : 0.0%
+wikipedia_url  : -
+mid            : -
+================================================================================
+name           : 36
+type           : NUMBER
+salience       : 0.0%
+wikipedia_url  : -
+mid            : -
+================================================================================
+name           : 18
+type           : NUMBER
+salience       : 0.0%
+wikipedia_url  : -
+mid            : -
+================================================================================
+name           : 04
+type           : NUMBER
+salience       : 0.0%
+wikipedia_url  : -
+mid            : -
+================================================================================
+name           : 2
+type           : NUMBER
+salience       : 0.0%
+wikipedia_url  : -
+mid            : -
+================================================================================
+name           : 5
+type           : NUMBER
+salience       : 0.0%
+wikipedia_url  : -
+mid            : -
+================================================================================
+name           : einen
+type           : NUMBER
+salience       : 0.0%
+wikipedia_url  : -
+mid            : -
+================================================================================
+name           : eine
+type           : NUMBER
+salience       : 0.0%
+wikipedia_url  : -
+mid            : -
+================================================================================
+name           : eine
+type           : NUMBER
+salience       : 0.0%
+wikipedia_url  : -
+mid            : -

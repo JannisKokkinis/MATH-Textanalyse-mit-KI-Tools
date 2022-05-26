@@ -1,0 +1,44 @@
+Document Sentiment: mixed
+Overall scores: positive=0.17; neutral=0.13; negative=0.70 
+
+Sentence: Sehr geehrte Damen und Herren der Geschäftsleitung der SBB, Hiermit beschwere ich mich zum 5 Male schriftlich, dass die Zugverbindungen von Bern nach Basel (namentlich die Züge ab 17:36 und 18:04 immer verspätet ankommen! 
+Sentence 1 sentiment: negative
+Sentence score:
+Positive=0.01
+Neutral=0.02
+Negative=0.97
+
+Sentence: Die letzten Male mit derartigen Verspätungen, dass ich nun innert 2 Wochen zum 5ten Male mein Anschlusszug nach Aesch verpasst habe.
+Sentence 2 sentiment: negative
+Sentence score:
+Positive=0.01
+Neutral=0.01
+Negative=0.98
+
+Sentence: Beim Nachfragen des Zugspersonals konnte mir niemand einen Grund nennen, weshalb die Verspätung zu Stande kam.
+Sentence 3 sentiment: negative
+Sentence score:
+Positive=0.01
+Neutral=0.05
+Negative=0.94
+
+Sentence: Auch vermisse ich eine Reaktion seitens des Beschwerdemanagement der SBB!
+Sentence 4 sentiment: negative
+Sentence score:
+Positive=0.03
+Neutral=0.27
+Negative=0.70
+
+Sentence: Ich erwarte eine Begründung für die genannten Verspätungen und die konkreten Massnahmen, was Sie gedenken gegen die Verspätungen zu tun.
+Sentence 5 sentiment: negative
+Sentence score:
+Positive=0.04
+Neutral=0.35
+Negative=0.61
+
+Sentence: Freundliche Grüsse Heinz Müller
+Sentence 6 sentiment: positive
+Sentence score:
+Positive=0.91
+Neutral=0.07
+Negative=0.01

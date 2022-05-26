@@ -1,0 +1,1177 @@
+Calling DetectSyntax
+{
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "content-length": "14005",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 26 May 2022 11:52:53 GMT",
+            "x-amzn-requestid": "ebe23b5d-7944-4f40-8d9b-2cd14812f0c0"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "ebe23b5d-7944-4f40-8d9b-2cd14812f0c0",
+        "RetryAttempts": 0
+    },
+    "SyntaxTokens": [
+        {
+            "BeginOffset": 0,
+            "EndOffset": 4,
+            "PartOfSpeech": {
+                "Score": 0.9992132186889648,
+                "Tag": "ADV"
+            },
+            "Text": "Sehr",
+            "TokenId": 1
+        },
+        {
+            "BeginOffset": 5,
+            "EndOffset": 12,
+            "PartOfSpeech": {
+                "Score": 0.9750348329544067,
+                "Tag": "ADJ"
+            },
+            "Text": "geehrte",
+            "TokenId": 2
+        },
+        {
+            "BeginOffset": 13,
+            "EndOffset": 18,
+            "PartOfSpeech": {
+                "Score": 0.9836403727531433,
+                "Tag": "NOUN"
+            },
+            "Text": "Damen",
+            "TokenId": 3
+        },
+        {
+            "BeginOffset": 19,
+            "EndOffset": 22,
+            "PartOfSpeech": {
+                "Score": 0.9999995231628418,
+                "Tag": "CCONJ"
+            },
+            "Text": "und",
+            "TokenId": 4
+        },
+        {
+            "BeginOffset": 23,
+            "EndOffset": 29,
+            "PartOfSpeech": {
+                "Score": 0.9983495473861694,
+                "Tag": "NOUN"
+            },
+            "Text": "Herren",
+            "TokenId": 5
+        },
+        {
+            "BeginOffset": 30,
+            "EndOffset": 33,
+            "PartOfSpeech": {
+                "Score": 0.9996724128723145,
+                "Tag": "DET"
+            },
+            "Text": "der",
+            "TokenId": 6
+        },
+        {
+            "BeginOffset": 34,
+            "EndOffset": 50,
+            "PartOfSpeech": {
+                "Score": 0.9998455047607422,
+                "Tag": "NOUN"
+            },
+            "Text": "Gesch\u00e4ftsleitung",
+            "TokenId": 7
+        },
+        {
+            "BeginOffset": 51,
+            "EndOffset": 54,
+            "PartOfSpeech": {
+                "Score": 0.9985741376876831,
+                "Tag": "DET"
+            },
+            "Text": "der",
+            "TokenId": 8
+        },
+        {
+            "BeginOffset": 55,
+            "EndOffset": 58,
+            "PartOfSpeech": {
+                "Score": 0.9840527772903442,
+                "Tag": "PROPN"
+            },
+            "Text": "SBB",
+            "TokenId": 9
+        },
+        {
+            "BeginOffset": 58,
+            "EndOffset": 59,
+            "PartOfSpeech": {
+                "Score": 0.9999985694885254,
+                "Tag": "PUNCT"
+            },
+            "Text": ",",
+            "TokenId": 10
+        },
+        {
+            "BeginOffset": 60,
+            "EndOffset": 67,
+            "PartOfSpeech": {
+                "Score": 0.7847546935081482,
+                "Tag": "ADV"
+            },
+            "Text": "Hiermit",
+            "TokenId": 11
+        },
+        {
+            "BeginOffset": 68,
+            "EndOffset": 77,
+            "PartOfSpeech": {
+                "Score": 0.9978516101837158,
+                "Tag": "VERB"
+            },
+            "Text": "beschwere",
+            "TokenId": 12
+        },
+        {
+            "BeginOffset": 78,
+            "EndOffset": 81,
+            "PartOfSpeech": {
+                "Score": 0.9999656677246094,
+                "Tag": "PRON"
+            },
+            "Text": "ich",
+            "TokenId": 13
+        },
+        {
+            "BeginOffset": 82,
+            "EndOffset": 86,
+            "PartOfSpeech": {
+                "Score": 0.9970771074295044,
+                "Tag": "PRON"
+            },
+            "Text": "mich",
+            "TokenId": 14
+        },
+        {
+            "BeginOffset": 87,
+            "EndOffset": 90,
+            "PartOfSpeech": {
+                "Score": 0.9997482895851135,
+                "Tag": "ADP"
+            },
+            "Text": "zum",
+            "TokenId": 15
+        },
+        {
+            "BeginOffset": 91,
+            "EndOffset": 92,
+            "PartOfSpeech": {
+                "Score": 0.9997226595878601,
+                "Tag": "NUM"
+            },
+            "Text": "5",
+            "TokenId": 16
+        },
+        {
+            "BeginOffset": 93,
+            "EndOffset": 97,
+            "PartOfSpeech": {
+                "Score": 0.9968146681785583,
+                "Tag": "NOUN"
+            },
+            "Text": "Male",
+            "TokenId": 17
+        },
+        {
+            "BeginOffset": 98,
+            "EndOffset": 109,
+            "PartOfSpeech": {
+                "Score": 0.5608940720558167,
+                "Tag": "ADJ"
+            },
+            "Text": "schriftlich",
+            "TokenId": 18
+        },
+        {
+            "BeginOffset": 109,
+            "EndOffset": 110,
+            "PartOfSpeech": {
+                "Score": 0.9999979734420776,
+                "Tag": "PUNCT"
+            },
+            "Text": ",",
+            "TokenId": 19
+        },
+        {
+            "BeginOffset": 111,
+            "EndOffset": 115,
+            "PartOfSpeech": {
+                "Score": 0.9983282685279846,
+                "Tag": "SCONJ"
+            },
+            "Text": "dass",
+            "TokenId": 20
+        },
+        {
+            "BeginOffset": 116,
+            "EndOffset": 119,
+            "PartOfSpeech": {
+                "Score": 0.9975632429122925,
+                "Tag": "DET"
+            },
+            "Text": "die",
+            "TokenId": 21
+        },
+        {
+            "BeginOffset": 120,
+            "EndOffset": 135,
+            "PartOfSpeech": {
+                "Score": 0.999934196472168,
+                "Tag": "NOUN"
+            },
+            "Text": "Zugverbindungen",
+            "TokenId": 22
+        },
+        {
+            "BeginOffset": 136,
+            "EndOffset": 139,
+            "PartOfSpeech": {
+                "Score": 0.9999309778213501,
+                "Tag": "ADP"
+            },
+            "Text": "von",
+            "TokenId": 23
+        },
+        {
+            "BeginOffset": 140,
+            "EndOffset": 144,
+            "PartOfSpeech": {
+                "Score": 0.9987627267837524,
+                "Tag": "PROPN"
+            },
+            "Text": "Bern",
+            "TokenId": 24
+        },
+        {
+            "BeginOffset": 145,
+            "EndOffset": 149,
+            "PartOfSpeech": {
+                "Score": 0.9982132911682129,
+                "Tag": "ADP"
+            },
+            "Text": "nach",
+            "TokenId": 25
+        },
+        {
+            "BeginOffset": 150,
+            "EndOffset": 155,
+            "PartOfSpeech": {
+                "Score": 0.9975814819335938,
+                "Tag": "PROPN"
+            },
+            "Text": "Basel",
+            "TokenId": 26
+        },
+        {
+            "BeginOffset": 156,
+            "EndOffset": 157,
+            "PartOfSpeech": {
+                "Score": 0.9999945163726807,
+                "Tag": "PUNCT"
+            },
+            "Text": "(",
+            "TokenId": 27
+        },
+        {
+            "BeginOffset": 157,
+            "EndOffset": 167,
+            "PartOfSpeech": {
+                "Score": 0.8369794487953186,
+                "Tag": "ADV"
+            },
+            "Text": "namentlich",
+            "TokenId": 28
+        },
+        {
+            "BeginOffset": 168,
+            "EndOffset": 171,
+            "PartOfSpeech": {
+                "Score": 0.9893662333488464,
+                "Tag": "DET"
+            },
+            "Text": "die",
+            "TokenId": 29
+        },
+        {
+            "BeginOffset": 172,
+            "EndOffset": 176,
+            "PartOfSpeech": {
+                "Score": 0.9987637996673584,
+                "Tag": "NOUN"
+            },
+            "Text": "Z\u00fcge",
+            "TokenId": 30
+        },
+        {
+            "BeginOffset": 177,
+            "EndOffset": 179,
+            "PartOfSpeech": {
+                "Score": 0.9995133876800537,
+                "Tag": "ADP"
+            },
+            "Text": "ab",
+            "TokenId": 31
+        },
+        {
+            "BeginOffset": 180,
+            "EndOffset": 185,
+            "PartOfSpeech": {
+                "Score": 0.9650055766105652,
+                "Tag": "NUM"
+            },
+            "Text": "17:36",
+            "TokenId": 32
+        },
+        {
+            "BeginOffset": 186,
+            "EndOffset": 189,
+            "PartOfSpeech": {
+                "Score": 0.9999908208847046,
+                "Tag": "CCONJ"
+            },
+            "Text": "und",
+            "TokenId": 33
+        },
+        {
+            "BeginOffset": 190,
+            "EndOffset": 195,
+            "PartOfSpeech": {
+                "Score": 0.9891495108604431,
+                "Tag": "NUM"
+            },
+            "Text": "18:04",
+            "TokenId": 34
+        },
+        {
+            "BeginOffset": 196,
+            "EndOffset": 201,
+            "PartOfSpeech": {
+                "Score": 0.9962582588195801,
+                "Tag": "ADV"
+            },
+            "Text": "immer",
+            "TokenId": 35
+        },
+        {
+            "BeginOffset": 202,
+            "EndOffset": 211,
+            "PartOfSpeech": {
+                "Score": 0.8870429396629333,
+                "Tag": "ADJ"
+            },
+            "Text": "versp\u00e4tet",
+            "TokenId": 36
+        },
+        {
+            "BeginOffset": 212,
+            "EndOffset": 220,
+            "PartOfSpeech": {
+                "Score": 0.9994847774505615,
+                "Tag": "VERB"
+            },
+            "Text": "ankommen",
+            "TokenId": 37
+        },
+        {
+            "BeginOffset": 220,
+            "EndOffset": 221,
+            "PartOfSpeech": {
+                "Score": 1.0,
+                "Tag": "PUNCT"
+            },
+            "Text": "!",
+            "TokenId": 38
+        },
+        {
+            "BeginOffset": 222,
+            "EndOffset": 225,
+            "PartOfSpeech": {
+                "Score": 0.9999845027923584,
+                "Tag": "DET"
+            },
+            "Text": "Die",
+            "TokenId": 39
+        },
+        {
+            "BeginOffset": 226,
+            "EndOffset": 233,
+            "PartOfSpeech": {
+                "Score": 0.9999251365661621,
+                "Tag": "ADJ"
+            },
+            "Text": "letzten",
+            "TokenId": 40
+        },
+        {
+            "BeginOffset": 234,
+            "EndOffset": 238,
+            "PartOfSpeech": {
+                "Score": 0.99872225522995,
+                "Tag": "NOUN"
+            },
+            "Text": "Male",
+            "TokenId": 41
+        },
+        {
+            "BeginOffset": 239,
+            "EndOffset": 242,
+            "PartOfSpeech": {
+                "Score": 0.9998892545700073,
+                "Tag": "ADP"
+            },
+            "Text": "mit",
+            "TokenId": 42
+        },
+        {
+            "BeginOffset": 243,
+            "EndOffset": 253,
+            "PartOfSpeech": {
+                "Score": 0.997327446937561,
+                "Tag": "ADJ"
+            },
+            "Text": "derartigen",
+            "TokenId": 43
+        },
+        {
+            "BeginOffset": 254,
+            "EndOffset": 266,
+            "PartOfSpeech": {
+                "Score": 0.9999544620513916,
+                "Tag": "NOUN"
+            },
+            "Text": "Versp\u00e4tungen",
+            "TokenId": 44
+        },
+        {
+            "BeginOffset": 266,
+            "EndOffset": 267,
+            "PartOfSpeech": {
+                "Score": 0.9999996423721313,
+                "Tag": "PUNCT"
+            },
+            "Text": ",",
+            "TokenId": 45
+        },
+        {
+            "BeginOffset": 268,
+            "EndOffset": 272,
+            "PartOfSpeech": {
+                "Score": 0.9988829493522644,
+                "Tag": "SCONJ"
+            },
+            "Text": "dass",
+            "TokenId": 46
+        },
+        {
+            "BeginOffset": 273,
+            "EndOffset": 276,
+            "PartOfSpeech": {
+                "Score": 0.9999685287475586,
+                "Tag": "PRON"
+            },
+            "Text": "ich",
+            "TokenId": 47
+        },
+        {
+            "BeginOffset": 277,
+            "EndOffset": 280,
+            "PartOfSpeech": {
+                "Score": 0.9993559718132019,
+                "Tag": "ADV"
+            },
+            "Text": "nun",
+            "TokenId": 48
+        },
+        {
+            "BeginOffset": 281,
+            "EndOffset": 287,
+            "PartOfSpeech": {
+                "Score": 0.8579569458961487,
+                "Tag": "ADP"
+            },
+            "Text": "innert",
+            "TokenId": 49
+        },
+        {
+            "BeginOffset": 288,
+            "EndOffset": 289,
+            "PartOfSpeech": {
+                "Score": 0.9999210834503174,
+                "Tag": "NUM"
+            },
+            "Text": "2",
+            "TokenId": 50
+        },
+        {
+            "BeginOffset": 290,
+            "EndOffset": 296,
+            "PartOfSpeech": {
+                "Score": 0.9996902942657471,
+                "Tag": "NOUN"
+            },
+            "Text": "Wochen",
+            "TokenId": 51
+        },
+        {
+            "BeginOffset": 297,
+            "EndOffset": 300,
+            "PartOfSpeech": {
+                "Score": 0.9999517202377319,
+                "Tag": "ADP"
+            },
+            "Text": "zum",
+            "TokenId": 52
+        },
+        {
+            "BeginOffset": 301,
+            "EndOffset": 305,
+            "PartOfSpeech": {
+                "Score": 0.7603597640991211,
+                "Tag": "ADJ"
+            },
+            "Text": "5ten",
+            "TokenId": 53
+        },
+        {
+            "BeginOffset": 306,
+            "EndOffset": 310,
+            "PartOfSpeech": {
+                "Score": 0.9959195852279663,
+                "Tag": "NOUN"
+            },
+            "Text": "Male",
+            "TokenId": 54
+        },
+        {
+            "BeginOffset": 311,
+            "EndOffset": 315,
+            "PartOfSpeech": {
+                "Score": 0.971430242061615,
+                "Tag": "PRON"
+            },
+            "Text": "mein",
+            "TokenId": 55
+        },
+        {
+            "BeginOffset": 316,
+            "EndOffset": 328,
+            "PartOfSpeech": {
+                "Score": 0.9999368190765381,
+                "Tag": "NOUN"
+            },
+            "Text": "Anschlusszug",
+            "TokenId": 56
+        },
+        {
+            "BeginOffset": 329,
+            "EndOffset": 333,
+            "PartOfSpeech": {
+                "Score": 0.9993940591812134,
+                "Tag": "ADP"
+            },
+            "Text": "nach",
+            "TokenId": 57
+        },
+        {
+            "BeginOffset": 334,
+            "EndOffset": 339,
+            "PartOfSpeech": {
+                "Score": 0.9974192380905151,
+                "Tag": "PROPN"
+            },
+            "Text": "Aesch",
+            "TokenId": 58
+        },
+        {
+            "BeginOffset": 340,
+            "EndOffset": 348,
+            "PartOfSpeech": {
+                "Score": 0.9998518228530884,
+                "Tag": "VERB"
+            },
+            "Text": "verpasst",
+            "TokenId": 59
+        },
+        {
+            "BeginOffset": 349,
+            "EndOffset": 353,
+            "PartOfSpeech": {
+                "Score": 0.9945923686027527,
+                "Tag": "AUX"
+            },
+            "Text": "habe",
+            "TokenId": 60
+        },
+        {
+            "BeginOffset": 353,
+            "EndOffset": 354,
+            "PartOfSpeech": {
+                "Score": 0.9999899864196777,
+                "Tag": "PUNCT"
+            },
+            "Text": ".",
+            "TokenId": 61
+        },
+        {
+            "BeginOffset": 355,
+            "EndOffset": 359,
+            "PartOfSpeech": {
+                "Score": 0.9998935461044312,
+                "Tag": "ADP"
+            },
+            "Text": "Beim",
+            "TokenId": 62
+        },
+        {
+            "BeginOffset": 360,
+            "EndOffset": 370,
+            "PartOfSpeech": {
+                "Score": 0.9998452663421631,
+                "Tag": "NOUN"
+            },
+            "Text": "Nachfragen",
+            "TokenId": 63
+        },
+        {
+            "BeginOffset": 371,
+            "EndOffset": 374,
+            "PartOfSpeech": {
+                "Score": 0.9996091723442078,
+                "Tag": "DET"
+            },
+            "Text": "des",
+            "TokenId": 64
+        },
+        {
+            "BeginOffset": 375,
+            "EndOffset": 388,
+            "PartOfSpeech": {
+                "Score": 0.8651195764541626,
+                "Tag": "NOUN"
+            },
+            "Text": "Zugspersonals",
+            "TokenId": 65
+        },
+        {
+            "BeginOffset": 389,
+            "EndOffset": 395,
+            "PartOfSpeech": {
+                "Score": 0.998801589012146,
+                "Tag": "AUX"
+            },
+            "Text": "konnte",
+            "TokenId": 66
+        },
+        {
+            "BeginOffset": 396,
+            "EndOffset": 399,
+            "PartOfSpeech": {
+                "Score": 0.9982671737670898,
+                "Tag": "PRON"
+            },
+            "Text": "mir",
+            "TokenId": 67
+        },
+        {
+            "BeginOffset": 400,
+            "EndOffset": 407,
+            "PartOfSpeech": {
+                "Score": 0.6121062636375427,
+                "Tag": "PRON"
+            },
+            "Text": "niemand",
+            "TokenId": 68
+        },
+        {
+            "BeginOffset": 408,
+            "EndOffset": 413,
+            "PartOfSpeech": {
+                "Score": 0.9545941948890686,
+                "Tag": "DET"
+            },
+            "Text": "einen",
+            "TokenId": 69
+        },
+        {
+            "BeginOffset": 414,
+            "EndOffset": 419,
+            "PartOfSpeech": {
+                "Score": 0.9998552799224854,
+                "Tag": "NOUN"
+            },
+            "Text": "Grund",
+            "TokenId": 70
+        },
+        {
+            "BeginOffset": 420,
+            "EndOffset": 426,
+            "PartOfSpeech": {
+                "Score": 0.997821569442749,
+                "Tag": "VERB"
+            },
+            "Text": "nennen",
+            "TokenId": 71
+        },
+        {
+            "BeginOffset": 426,
+            "EndOffset": 427,
+            "PartOfSpeech": {
+                "Score": 0.9999998807907104,
+                "Tag": "PUNCT"
+            },
+            "Text": ",",
+            "TokenId": 72
+        },
+        {
+            "BeginOffset": 428,
+            "EndOffset": 435,
+            "PartOfSpeech": {
+                "Score": 0.9356098771095276,
+                "Tag": "SCONJ"
+            },
+            "Text": "weshalb",
+            "TokenId": 73
+        },
+        {
+            "BeginOffset": 436,
+            "EndOffset": 439,
+            "PartOfSpeech": {
+                "Score": 0.9935832619667053,
+                "Tag": "DET"
+            },
+            "Text": "die",
+            "TokenId": 74
+        },
+        {
+            "BeginOffset": 440,
+            "EndOffset": 450,
+            "PartOfSpeech": {
+                "Score": 0.9997404217720032,
+                "Tag": "NOUN"
+            },
+            "Text": "Versp\u00e4tung",
+            "TokenId": 75
+        },
+        {
+            "BeginOffset": 451,
+            "EndOffset": 453,
+            "PartOfSpeech": {
+                "Score": 0.997314989566803,
+                "Tag": "ADP"
+            },
+            "Text": "zu",
+            "TokenId": 76
+        },
+        {
+            "BeginOffset": 454,
+            "EndOffset": 460,
+            "PartOfSpeech": {
+                "Score": 0.9972198009490967,
+                "Tag": "NOUN"
+            },
+            "Text": "Stande",
+            "TokenId": 77
+        },
+        {
+            "BeginOffset": 461,
+            "EndOffset": 464,
+            "PartOfSpeech": {
+                "Score": 0.9999384880065918,
+                "Tag": "VERB"
+            },
+            "Text": "kam",
+            "TokenId": 78
+        },
+        {
+            "BeginOffset": 464,
+            "EndOffset": 465,
+            "PartOfSpeech": {
+                "Score": 0.9999943971633911,
+                "Tag": "PUNCT"
+            },
+            "Text": ".",
+            "TokenId": 79
+        },
+        {
+            "BeginOffset": 466,
+            "EndOffset": 470,
+            "PartOfSpeech": {
+                "Score": 0.9996521472930908,
+                "Tag": "ADV"
+            },
+            "Text": "Auch",
+            "TokenId": 80
+        },
+        {
+            "BeginOffset": 471,
+            "EndOffset": 479,
+            "PartOfSpeech": {
+                "Score": 0.9993919134140015,
+                "Tag": "VERB"
+            },
+            "Text": "vermisse",
+            "TokenId": 81
+        },
+        {
+            "BeginOffset": 480,
+            "EndOffset": 483,
+            "PartOfSpeech": {
+                "Score": 0.9999426603317261,
+                "Tag": "PRON"
+            },
+            "Text": "ich",
+            "TokenId": 82
+        },
+        {
+            "BeginOffset": 484,
+            "EndOffset": 488,
+            "PartOfSpeech": {
+                "Score": 0.9968129992485046,
+                "Tag": "DET"
+            },
+            "Text": "eine",
+            "TokenId": 83
+        },
+        {
+            "BeginOffset": 489,
+            "EndOffset": 497,
+            "PartOfSpeech": {
+                "Score": 0.9999693632125854,
+                "Tag": "NOUN"
+            },
+            "Text": "Reaktion",
+            "TokenId": 84
+        },
+        {
+            "BeginOffset": 498,
+            "EndOffset": 505,
+            "PartOfSpeech": {
+                "Score": 0.9992343187332153,
+                "Tag": "ADP"
+            },
+            "Text": "seitens",
+            "TokenId": 85
+        },
+        {
+            "BeginOffset": 506,
+            "EndOffset": 509,
+            "PartOfSpeech": {
+                "Score": 0.9998682737350464,
+                "Tag": "DET"
+            },
+            "Text": "des",
+            "TokenId": 86
+        },
+        {
+            "BeginOffset": 510,
+            "EndOffset": 530,
+            "PartOfSpeech": {
+                "Score": 0.9978322386741638,
+                "Tag": "NOUN"
+            },
+            "Text": "Beschwerdemanagement",
+            "TokenId": 87
+        },
+        {
+            "BeginOffset": 531,
+            "EndOffset": 534,
+            "PartOfSpeech": {
+                "Score": 0.9989802241325378,
+                "Tag": "DET"
+            },
+            "Text": "der",
+            "TokenId": 88
+        },
+        {
+            "BeginOffset": 535,
+            "EndOffset": 538,
+            "PartOfSpeech": {
+                "Score": 0.9872064590454102,
+                "Tag": "PROPN"
+            },
+            "Text": "SBB",
+            "TokenId": 89
+        },
+        {
+            "BeginOffset": 538,
+            "EndOffset": 539,
+            "PartOfSpeech": {
+                "Score": 0.9999836683273315,
+                "Tag": "PUNCT"
+            },
+            "Text": "!",
+            "TokenId": 90
+        },
+        {
+            "BeginOffset": 541,
+            "EndOffset": 544,
+            "PartOfSpeech": {
+                "Score": 0.999848484992981,
+                "Tag": "PRON"
+            },
+            "Text": "Ich",
+            "TokenId": 91
+        },
+        {
+            "BeginOffset": 545,
+            "EndOffset": 552,
+            "PartOfSpeech": {
+                "Score": 0.9998202919960022,
+                "Tag": "VERB"
+            },
+            "Text": "erwarte",
+            "TokenId": 92
+        },
+        {
+            "BeginOffset": 553,
+            "EndOffset": 557,
+            "PartOfSpeech": {
+                "Score": 0.9807974696159363,
+                "Tag": "DET"
+            },
+            "Text": "eine",
+            "TokenId": 93
+        },
+        {
+            "BeginOffset": 558,
+            "EndOffset": 568,
+            "PartOfSpeech": {
+                "Score": 0.999954104423523,
+                "Tag": "NOUN"
+            },
+            "Text": "Begr\u00fcndung",
+            "TokenId": 94
+        },
+        {
+            "BeginOffset": 569,
+            "EndOffset": 572,
+            "PartOfSpeech": {
+                "Score": 0.9999349117279053,
+                "Tag": "ADP"
+            },
+            "Text": "f\u00fcr",
+            "TokenId": 95
+        },
+        {
+            "BeginOffset": 573,
+            "EndOffset": 576,
+            "PartOfSpeech": {
+                "Score": 0.9896432161331177,
+                "Tag": "DET"
+            },
+            "Text": "die",
+            "TokenId": 96
+        },
+        {
+            "BeginOffset": 577,
+            "EndOffset": 586,
+            "PartOfSpeech": {
+                "Score": 0.9980154037475586,
+                "Tag": "ADJ"
+            },
+            "Text": "genannten",
+            "TokenId": 97
+        },
+        {
+            "BeginOffset": 587,
+            "EndOffset": 599,
+            "PartOfSpeech": {
+                "Score": 0.9996519088745117,
+                "Tag": "NOUN"
+            },
+            "Text": "Versp\u00e4tungen",
+            "TokenId": 98
+        },
+        {
+            "BeginOffset": 600,
+            "EndOffset": 603,
+            "PartOfSpeech": {
+                "Score": 0.9999949932098389,
+                "Tag": "CCONJ"
+            },
+            "Text": "und",
+            "TokenId": 99
+        },
+        {
+            "BeginOffset": 604,
+            "EndOffset": 607,
+            "PartOfSpeech": {
+                "Score": 0.9984875917434692,
+                "Tag": "DET"
+            },
+            "Text": "die",
+            "TokenId": 100
+        },
+        {
+            "BeginOffset": 608,
+            "EndOffset": 617,
+            "PartOfSpeech": {
+                "Score": 0.999913215637207,
+                "Tag": "ADJ"
+            },
+            "Text": "konkreten",
+            "TokenId": 101
+        },
+        {
+            "BeginOffset": 618,
+            "EndOffset": 628,
+            "PartOfSpeech": {
+                "Score": 0.9998867511749268,
+                "Tag": "NOUN"
+            },
+            "Text": "Massnahmen",
+            "TokenId": 102
+        },
+        {
+            "BeginOffset": 628,
+            "EndOffset": 629,
+            "PartOfSpeech": {
+                "Score": 0.9999977350234985,
+                "Tag": "PUNCT"
+            },
+            "Text": ",",
+            "TokenId": 103
+        },
+        {
+            "BeginOffset": 630,
+            "EndOffset": 633,
+            "PartOfSpeech": {
+                "Score": 0.9964388608932495,
+                "Tag": "PRON"
+            },
+            "Text": "was",
+            "TokenId": 104
+        },
+        {
+            "BeginOffset": 634,
+            "EndOffset": 637,
+            "PartOfSpeech": {
+                "Score": 0.9962221384048462,
+                "Tag": "PRON"
+            },
+            "Text": "Sie",
+            "TokenId": 105
+        },
+        {
+            "BeginOffset": 638,
+            "EndOffset": 646,
+            "PartOfSpeech": {
+                "Score": 0.9994568228721619,
+                "Tag": "VERB"
+            },
+            "Text": "gedenken",
+            "TokenId": 106
+        },
+        {
+            "BeginOffset": 647,
+            "EndOffset": 652,
+            "PartOfSpeech": {
+                "Score": 0.9997324347496033,
+                "Tag": "ADP"
+            },
+            "Text": "gegen",
+            "TokenId": 107
+        },
+        {
+            "BeginOffset": 653,
+            "EndOffset": 656,
+            "PartOfSpeech": {
+                "Score": 0.987758457660675,
+                "Tag": "DET"
+            },
+            "Text": "die",
+            "TokenId": 108
+        },
+        {
+            "BeginOffset": 657,
+            "EndOffset": 669,
+            "PartOfSpeech": {
+                "Score": 0.9998526573181152,
+                "Tag": "NOUN"
+            },
+            "Text": "Versp\u00e4tungen",
+            "TokenId": 109
+        },
+        {
+            "BeginOffset": 670,
+            "EndOffset": 672,
+            "PartOfSpeech": {
+                "Score": 0.9969193935394287,
+                "Tag": "PART"
+            },
+            "Text": "zu",
+            "TokenId": 110
+        },
+        {
+            "BeginOffset": 673,
+            "EndOffset": 676,
+            "PartOfSpeech": {
+                "Score": 0.9998611211776733,
+                "Tag": "VERB"
+            },
+            "Text": "tun",
+            "TokenId": 111
+        },
+        {
+            "BeginOffset": 676,
+            "EndOffset": 677,
+            "PartOfSpeech": {
+                "Score": 0.9999978542327881,
+                "Tag": "PUNCT"
+            },
+            "Text": ".",
+            "TokenId": 112
+        },
+        {
+            "BeginOffset": 678,
+            "EndOffset": 689,
+            "PartOfSpeech": {
+                "Score": 0.9993591904640198,
+                "Tag": "ADJ"
+            },
+            "Text": "Freundliche",
+            "TokenId": 113
+        },
+        {
+            "BeginOffset": 690,
+            "EndOffset": 696,
+            "PartOfSpeech": {
+                "Score": 0.9976484179496765,
+                "Tag": "NOUN"
+            },
+            "Text": "Gr\u00fcsse",
+            "TokenId": 114
+        },
+        {
+            "BeginOffset": 697,
+            "EndOffset": 702,
+            "PartOfSpeech": {
+                "Score": 0.99750816822052,
+                "Tag": "PROPN"
+            },
+            "Text": "Heinz",
+            "TokenId": 115
+        },
+        {
+            "BeginOffset": 703,
+            "EndOffset": 709,
+            "PartOfSpeech": {
+                "Score": 0.9997581839561462,
+                "Tag": "PROPN"
+            },
+            "Text": "M\u00fcller",
+            "TokenId": 116
+        }
+    ]
+}
+End of DetectSyntax

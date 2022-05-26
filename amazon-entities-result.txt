@@ -1,0 +1,108 @@
+Calling DetectEntities
+{
+    "Entities": [
+        {
+            "BeginOffset": 55,
+            "EndOffset": 58,
+            "Score": 0.9963896870613098,
+            "Text": "SBB",
+            "Type": "ORGANIZATION"
+        },
+        {
+            "BeginOffset": 91,
+            "EndOffset": 97,
+            "Score": 0.9968346357345581,
+            "Text": "5 Male",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 140,
+            "EndOffset": 144,
+            "Score": 0.9985271692276001,
+            "Text": "Bern",
+            "Type": "LOCATION"
+        },
+        {
+            "BeginOffset": 150,
+            "EndOffset": 155,
+            "Score": 0.9974243640899658,
+            "Text": "Basel",
+            "Type": "LOCATION"
+        },
+        {
+            "BeginOffset": 180,
+            "EndOffset": 185,
+            "Score": 0.9500206112861633,
+            "Text": "17:36",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 190,
+            "EndOffset": 195,
+            "Score": 0.9642225503921509,
+            "Text": "18:04",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 226,
+            "EndOffset": 238,
+            "Score": 0.921542227268219,
+            "Text": "letzten Male",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 281,
+            "EndOffset": 296,
+            "Score": 0.7932544946670532,
+            "Text": "innert 2 Wochen",
+            "Type": "DATE"
+        },
+        {
+            "BeginOffset": 301,
+            "EndOffset": 310,
+            "Score": 0.9940438270568848,
+            "Text": "5ten Male",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 334,
+            "EndOffset": 339,
+            "Score": 0.9859435558319092,
+            "Text": "Aesch",
+            "Type": "LOCATION"
+        },
+        {
+            "BeginOffset": 400,
+            "EndOffset": 407,
+            "Score": 0.5684992074966431,
+            "Text": "niemand",
+            "Type": "QUANTITY"
+        },
+        {
+            "BeginOffset": 535,
+            "EndOffset": 538,
+            "Score": 0.9972773194313049,
+            "Text": "SBB",
+            "Type": "ORGANIZATION"
+        },
+        {
+            "BeginOffset": 697,
+            "EndOffset": 709,
+            "Score": 0.9994252324104309,
+            "Text": "Heinz M\u00fcller",
+            "Type": "PERSON"
+        }
+    ],
+    "ResponseMetadata": {
+        "HTTPHeaders": {
+            "content-length": "1278",
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Thu, 26 May 2022 11:10:49 GMT",
+            "x-amzn-requestid": "eb1eb036-1002-4680-86f8-8279beefd0de"
+        },
+        "HTTPStatusCode": 200,
+        "RequestId": "eb1eb036-1002-4680-86f8-8279beefd0de",
+        "RetryAttempts": 0
+    }
+}
+End of DetectEntities
