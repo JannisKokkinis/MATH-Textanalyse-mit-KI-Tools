@@ -4,7 +4,7 @@ content = 'Sehr geehrte Damen und Herren der Geschäftsleitung der SBB, Hiermit 
 MicrosoftKey = 'enteryourkeyhere'
 MicrosoftEndpoint = 'https://yoururl.cognitiveservices.azure.com/'
 
-# AmazonAccessKeyID: enteryourkeyidhere / only for documentation purposes
-# AmazonAccessKey: enteryourkeyhere / only for documentation purposes
+AmazonAccessKeyID: enteryourkeyidhere
+AmazonAccessKey: enteryourkeyhere
 awsregion = 'us-east-1'
-# AmazonOutputFormat: json / only for documentation purposes
+AmazonOutputFormat: json
